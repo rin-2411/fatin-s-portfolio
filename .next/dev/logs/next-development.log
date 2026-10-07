@@ -1,0 +1,59 @@
+{"timestamp":"00:02:02.557","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 443ms. If \\\\?\\C:\\Users\\PC RUMAH\\Documents\\ibi\\f_portfolio\\f_portfolio\\.next\\dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
+{"timestamp":"00:02:03.659","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:02:03.659","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:02:03.659","source":"Server","level":"LOG","message":"- Experiments (use with caution):"}
+{"timestamp":"00:02:03.659","source":"Server","level":"LOG","message":"  ✓ agentFeedback"}
+{"timestamp":"00:02:03.659","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:05:27.900","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:05:55.512","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:21:16.048","source":"Server","level":"LOG","message":"✓ Compiled in 31.3s"}
+{"timestamp":"02:21:19.086","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"02:22:03.564","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:23:57.571","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:24:15.889","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:29:54.729","source":"Server","level":"LOG","message":"✓ Compiled in 42.6s"}
+{"timestamp":"02:32:10.024","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:51:18.248","source":"Server","level":"LOG","message":"✓ Compiled in 2.7s"}
+{"timestamp":"02:51:21.598","source":"Server","level":"LOG","message":"○ Compiling /_not-found/page ..."}
+{"timestamp":"02:51:26.815","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/hf2.jpg\" 404"}
+{"timestamp":"02:51:26.912","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/hf1.jpg\" 404"}
+{"timestamp":"02:51:27.027","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/hf3.jpg\" 404"}
+{"timestamp":"02:52:39.285","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:52:39.547","source":"Browser","level":"WARN","message":"Image with src \"/hf3.jpg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"02:52:39.572","source":"Browser","level":"WARN","message":"Image with src \"/hf1.jpg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"02:52:39.578","source":"Browser","level":"WARN","message":"Image with src \"/hf2.jpg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"02:52:39.921","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/hf3.jpg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"02:52:39.922","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/hf1.jpg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"02:52:39.922","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/hf2.jpg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"02:53:17.679","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:53:17.791","source":"Browser","level":"WARN","message":"Image with src \"/hf1.jpg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"02:53:17.791","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/hf1.jpg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"02:53:17.791","source":"Browser","level":"WARN","message":"Image with src \"/hf2.jpg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"02:53:17.792","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/hf2.jpg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"02:53:17.792","source":"Browser","level":"WARN","message":"Image with src \"/hf3.jpg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"02:53:17.793","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/hf3.jpg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"02:59:35.061","source":"Server","level":"LOG","message":"✓ Compiled in 3.7s"}
+{"timestamp":"02:59:37.933","source":"Server","level":"LOG","message":"✓ Compiled in 468ms"}
+{"timestamp":"03:03:50.775","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:04:08.192","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:10:58.377","source":"Server","level":"LOG","message":"✓ Compiled in 674ms"}
+{"timestamp":"03:15:15.583","source":"Server","level":"LOG","message":"✓ Compiled in 616ms"}
+{"timestamp":"03:15:20.057","source":"Server","level":"LOG","message":"✓ Compiled in 163ms"}
+{"timestamp":"03:15:38.275","source":"Server","level":"LOG","message":"✓ Compiled in 40ms"}
+{"timestamp":"03:23:49.949","source":"Server","level":"LOG","message":"✓ Compiled in 233ms"}
+{"timestamp":"03:24:30.176","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:27:02.280","source":"Server","level":"LOG","message":"✓ Compiled in 165ms"}
+{"timestamp":"03:27:12.170","source":"Server","level":"LOG","message":"✓ Compiled in 135ms"}
+{"timestamp":"03:27:57.504","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:30:59.200","source":"Server","level":"LOG","message":"✓ Compiled in 51ms"}
+{"timestamp":"03:31:14.060","source":"Server","level":"LOG","message":"✓ Compiled in 118ms"}
+{"timestamp":"03:34:53.639","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:34:56.958","source":"Server","level":"LOG","message":"✓ Compiled in 119ms"}
+{"timestamp":"03:35:25.075","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:37:00.542","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:37:04.144","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:37:05.824","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:37:08.988","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:38:12.889","source":"Server","level":"LOG","message":"✓ Compiled in 68ms"}
+{"timestamp":"03:38:39.133","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:39:32.566","source":"Server","level":"LOG","message":"✓ Compiled in 75ms"}
